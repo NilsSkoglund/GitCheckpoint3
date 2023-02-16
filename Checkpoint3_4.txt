@@ -1,0 +1,9 @@
+Questions:
+
+Which git command would you use to:
+
+1. View the history of the repository: git log
+
+2. If there are outstanding commits to do: git commit -m "some message"
+
+3. Start a new repository: git init
